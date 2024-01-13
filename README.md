@@ -1,5 +1,6 @@
 # My portfolio
-Welcome to my portfolio project, showcasing my professional and educational journey, as well as the projects I've had the opportunity to work on. Additionally, it provides a convenient contact form for easy communication. Explore the portfolio and get in touch!
+Welcome to my portfolio project, showcasing my professional and educational journey and the projects I've had the opportunity to work on. 
+Explore the portfolio and get in touch!
 
 ## Technologies
 - React.js
